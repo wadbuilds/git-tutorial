@@ -1,3 +1,3 @@
 console.log("config.js")
-console.log("version2 updated")
+console.log("version12")
 console.log("new versions are up now!")
